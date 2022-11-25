@@ -15,3 +15,9 @@ CREATE TABLE IF NOT EXISTS `Print_jobs`.`operation_types` (
   PRIMARY KEY (`operation_type`))
 ENGINE = InnoDB;
 ```
+
+#### To-do list
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
